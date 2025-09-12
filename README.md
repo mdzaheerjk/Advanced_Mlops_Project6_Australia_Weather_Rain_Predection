@@ -10,6 +10,10 @@ End-to-end MLOps project for predicting rain in Australia using machine learning
 > 📁 **Repository:** `Advanced_Mlops_Project6_Australia_Weather_Rain_Predection`
 
 ---
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIIyLxZFkxV7ifyP68FBofJ4dn-QR9xgEPNQ&s" width="800" height="533">
+</p>
+
 
 ## 🚀 Project Highlights
 
